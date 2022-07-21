@@ -3,6 +3,7 @@
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center">
+<br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp
 <br>
 <br>
@@ -31,7 +32,14 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>&nbsp
 </p>
 
+<br>
 
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://smin1620.tistory.com/"/></a>&nbsp
+  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdals1620@gmail.com"/></a>
+</p>
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
