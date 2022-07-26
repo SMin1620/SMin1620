@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SMin1620 Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SMin1620 Github&fontSize=50" />
 
 
 <div align="center">
@@ -59,4 +59,4 @@
 </div>
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
