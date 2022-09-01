@@ -12,7 +12,7 @@
   <a href="https://solved.ac/ske1620"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ske1620"/></a>
  
   <a href="https://smin1620.tistory.com"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
-  <a href="https://tame-antelope-1cb.notion.site/c46cfe5f8030441eb4f93e24bc397a28"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://tame-antelope-1cb.notion.site/00c470431ef64933a52b3011c610a65f"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
   <br>
   
