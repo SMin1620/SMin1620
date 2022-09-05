@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SMin1620 Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMin1620&fontSize=50" />
 
 
 <div align="center">
@@ -9,7 +9,7 @@
   
   ---
   
-  <a href="https://solved.ac/ske1620"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ske1620"/></a>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ske1620)](https://solved.ac/ske1620)
  
   <a href="https://smin1620.tistory.com"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
   <a href="https://tame-antelope-1cb.notion.site/00c470431ef64933a52b3011c610a65f"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
