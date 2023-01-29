@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMin1620&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요! 이승민 입니다.&fontSize=50" />
 
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=안녕하세요! 이승민 입니다." />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SMin1620" />
 
   ### 🔫 SMin1620 🔫
   
