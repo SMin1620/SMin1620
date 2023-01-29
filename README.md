@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SMin1620" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=안녕하세요! 이승민 입니다." />
 
   ### 🔫 SMin1620 🔫
   
