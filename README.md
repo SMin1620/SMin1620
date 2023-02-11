@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMin1620&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Python&nbsp;Backend&nbsp;Developer&fontSize=50" />
 
 
 <div align="center">
